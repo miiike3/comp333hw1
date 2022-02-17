@@ -46,7 +46,7 @@ ol {
 a {
     font-family: 'Open Sans', sans-serif;
     color:#feffff;
-    text-decoration: none;
+    /* text-decoration: none; */
     font-size: 25px;
     white-space: nowrap;
 }
