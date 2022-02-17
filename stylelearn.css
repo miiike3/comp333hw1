@@ -32,3 +32,11 @@ ol {
     color: #feffff;
     font-size: 25px;
 }
+
+a {
+    font-family: 'Open Sans', sans-serif;
+    color:#feffff;
+    text-decoration: none;
+    font-size: 20px;
+    white-space: nowrap;
+}
