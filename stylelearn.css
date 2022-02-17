@@ -1,0 +1,34 @@
+/* 
+    COMP 333: Software Engineering
+    Michael Tramontano
+ */
+ @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&display=swap');
+/* 
+    Color scheme: 
+    Dark: #17252A
+          #2B7A78
+          #3AAfA9
+          #DEF2F1
+          #FEFFFF
+*/
+body {
+    background-color: #3aafa9;
+}
+
+h1 { 
+    font-family: 'Open Sans', sans-serif;
+    color:#17252a;
+    font-size: 50px;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    color: #feffff;
+    font-size: 25px;
+}
+
+ol {
+    font-family: 'Open Sans', sans-serif;
+    color: #feffff;
+    font-size: 25px;
+}

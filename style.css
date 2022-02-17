@@ -2,8 +2,7 @@
     COMP 333: Software Engineering
     Michael Tramontano
  */
-
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&display=swap');
 /* 
     Color scheme: 
     Dark: #17252A
@@ -16,25 +15,24 @@ body {
     background-color: #3aafa9;
 }
 
+
 h1 {
-    font-family: 'Bebas Neue', cursive;
+    font-family: 'Open Sans', sans-serif;
     color: #17252A;
-    font-size: 12vw;
+    font-size: 8vw;
     text-align: center;
     left: 0;
     list-style: 200px;
-    /* margin-top: -175px; */
     margin-top: 20vh;
     position: absolute;
-    /* top: 50%; */
     width: 100%;
     white-space: nowrap;
 }
 
 h2 {
-    font-family: 'Bebas Neue', cursive;
+    font-family: 'Open Sans', sans-serif;
     color: #feffff;
-    font-size: 4vw;
+    font-size: 3vw;
     text-align: center;
     left: 0;
     list-style: 200px;
@@ -62,8 +60,9 @@ h2 {
 }
 
 .navbar a { 
-    font-family: 'Bebas Neue', cursive;
+    font-family: 'Open Sans', sans-serif;
     color:#feffff;
     text-decoration: none;
-    font-size: 30px;
+    font-size: 20px;
+    white-space: nowrap;
 }
